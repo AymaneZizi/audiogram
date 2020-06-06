@@ -30,6 +30,7 @@ Then, install Audiogram using the [full installation instructions](INSTALL.md).
 Once you've successfully installed everything, open a Terminal/command prompt, go to the directory you installed Audiogram into, and run the server with:
 
 ```sh
+> npm install
 > npm start
 ```
 
@@ -40,6 +41,9 @@ If you want to use a different port number, you can supply it in the command. Fo
 ```sh
 > npm start -- 9999
 ```
+## To do
+- [ ] changing background picture
+- [ ] changing fonts
 
 ## The editor
 
